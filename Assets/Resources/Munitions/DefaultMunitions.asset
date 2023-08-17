@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8baaf8a06980dff4dbd0c72430060be4, type: 3}
+  m_Name: DefaultMunitions
+  m_EditorClassIdentifier: 
+  munitions:
+  - munitionType: 9mm
+    munitionPrefab: {fileID: 1451712916309856, guid: 331d9f3681643d44eb94b7a3d4057483,
+      type: 2}
+    munitionCasing: {fileID: 1036239887975612, guid: 29acae88b2982e545b2d3e7c72cdead3,
+      type: 2}
+    hitEffect: {fileID: 11400000, guid: a52ee3349cf67a34d872e679e786c4d6, type: 2}
+  - munitionType: 45 ACP
+    munitionPrefab: {fileID: 0}
+    munitionCasing: {fileID: 0}
+    hitEffect: {fileID: 0}
+  - munitionType: 5.56mm
+    munitionPrefab: {fileID: 1337740119726034, guid: 397219b13cb9d504da3c57c3defef973,
+      type: 2}
+    munitionCasing: {fileID: 1631943309676264, guid: 5b1a7c49cd99be340beb1c76d7528a4a,
+      type: 2}
+    hitEffect: {fileID: 11400000, guid: a52ee3349cf67a34d872e679e786c4d6, type: 2}
+  - munitionType: 7.62mm
+    munitionPrefab: {fileID: 1455875996700924, guid: 231bdbc930f84914d8347937f8b9fab5,
+      type: 2}
+    munitionCasing: {fileID: 1339266171477766, guid: 2d848aa10e0105241aa1e55639f0cd3c,
+      type: 2}
+    hitEffect: {fileID: 11400000, guid: a52ee3349cf67a34d872e679e786c4d6, type: 2}
+  - munitionType: 50 Calibre
+    munitionPrefab: {fileID: 1985499071476816, guid: 6ac6f7ba773280f46b3cc5d15069ff5a,
+      type: 2}
+    munitionCasing: {fileID: 1541635461539430, guid: 5d4e5fa10f515f3419840ecf27c9b6be,
+      type: 2}
+    hitEffect: {fileID: 11400000, guid: a52ee3349cf67a34d872e679e786c4d6, type: 2}
+  - munitionType: Bazooka
+    munitionPrefab: {fileID: 1527957378029104, guid: e07b2ed44fa48af4ea203d82320fbed9,
+      type: 2}
+    munitionCasing: {fileID: 0}
+    hitEffect: {fileID: 11400000, guid: a52ee3349cf67a34d872e679e786c4d6, type: 2}
+  - munitionType: 12 Gauge Slug
+    munitionPrefab: {fileID: 1152572947094468, guid: 630c74ce63c318f49925a4fa22076150,
+      type: 2}
+    munitionCasing: {fileID: 100002, guid: 66d196c12aed2fd43a2f4aec5ab25b47, type: 2}
+    hitEffect: {fileID: 11400000, guid: a52ee3349cf67a34d872e679e786c4d6, type: 2}
+  - munitionType: 12 Gauge Birdshot
+    munitionPrefab: {fileID: 1988948891702706, guid: aeca372fe444fec48bea38f2ea5180f4,
+      type: 2}
+    munitionCasing: {fileID: 100002, guid: 66d196c12aed2fd43a2f4aec5ab25b47, type: 2}
+    hitEffect: {fileID: 11400000, guid: a52ee3349cf67a34d872e679e786c4d6, type: 2}

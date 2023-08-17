@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Barret_Sniper
+  m_Controller: {fileID: 9100000, guid: adbf0e2751b20464388920e446277385, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d2da19e8f44b67642af05bd6887c622a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8c5bcc287f44c884fab549b03c6ca198, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 687e4c37182486a459836c249746393f, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: bbdd03fd79cda914995718dc879df275, type: 3}
+  - m_OriginalClip: {fileID: 7400004, guid: 687e4c37182486a459836c249746393f, type: 3}
+    m_OverrideClip: {fileID: 7400002, guid: bbdd03fd79cda914995718dc879df275, type: 3}
+  - m_OriginalClip: {fileID: 7400006, guid: 687e4c37182486a459836c249746393f, type: 3}
+    m_OverrideClip: {fileID: 7400004, guid: bbdd03fd79cda914995718dc879df275, type: 3}
+  - m_OriginalClip: {fileID: 7400008, guid: 687e4c37182486a459836c249746393f, type: 3}
+    m_OverrideClip: {fileID: 7400006, guid: bbdd03fd79cda914995718dc879df275, type: 3}
+  - m_OriginalClip: {fileID: 7400010, guid: 687e4c37182486a459836c249746393f, type: 3}
+    m_OverrideClip: {fileID: 7400008, guid: bbdd03fd79cda914995718dc879df275, type: 3}
+  - m_OriginalClip: {fileID: 7400014, guid: 687e4c37182486a459836c249746393f, type: 3}
+    m_OverrideClip: {fileID: 7400012, guid: bbdd03fd79cda914995718dc879df275, type: 3}
+  - m_OriginalClip: {fileID: 7400016, guid: 687e4c37182486a459836c249746393f, type: 3}
+    m_OverrideClip: {fileID: 7400014, guid: bbdd03fd79cda914995718dc879df275, type: 3}
+  - m_OriginalClip: {fileID: 7400018, guid: 687e4c37182486a459836c249746393f, type: 3}
+    m_OverrideClip: {fileID: 7400016, guid: bbdd03fd79cda914995718dc879df275, type: 3}

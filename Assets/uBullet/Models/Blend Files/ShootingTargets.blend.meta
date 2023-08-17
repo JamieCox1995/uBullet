@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 8c6de6320adce084db7d232fb3b408f2
+timeCreated: 1525291460
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Shooting_Target
+    100002: //RootNode
+    100004: Steel_Man_Target
+    100006: Target_Table_Top
+    100008: Cube
+    100010: Steel_Man_Target_w__Stand
+    100012: Target_Stand
+    100014: Target_Table
+    100016: Wooden_Torso_Target
+    100018: Static_Stand_2_x4_
+    100020: Target_Hanger
+    400000: Shooting_Target
+    400002: //RootNode
+    400004: Steel_Man_Target
+    400006: Target_Table_Top
+    400008: Cube
+    400010: Steel_Man_Target_w__Stand
+    400012: Target_Stand
+    400014: Target_Table
+    400016: Wooden_Torso_Target
+    400018: Static_Stand_2_x4_
+    400020: Target_Hanger
+    2100000: unnamed
+    2300000: Shooting_Target
+    2300002: Steel_Man_Target
+    2300004: Target_Table_Top
+    2300006: Cube
+    2300008: Steel_Man_Target_w__Stand
+    2300010: Target_Stand
+    2300012: Target_Table
+    2300014: Wooden_Torso_Target
+    2300016: Static_Stand_2_x4_
+    2300018: Target_Hanger
+    3300000: Shooting_Target
+    3300002: Steel_Man_Target
+    3300004: Target_Table_Top
+    3300006: Cube
+    3300008: Steel_Man_Target_w__Stand
+    3300010: Target_Stand
+    3300012: Target_Table
+    3300014: Wooden_Torso_Target
+    3300016: Static_Stand_2_x4_
+    3300018: Target_Hanger
+    4300000: Target_Table_Top
+    4300002: Steel_Man_Target
+    4300004: Shooting_Target
+    4300006: Wooden_Torso_Target
+    4300008: Cube
+    4300010: Target_Stand
+    4300012: Target_Table
+    4300014: Steel_Man_Target_w__Stand
+    4300016: Static_Stand_2_x4_
+    4300018: Target_Hanger
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

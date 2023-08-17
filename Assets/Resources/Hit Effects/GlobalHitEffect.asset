@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b0aa2c06bfa5e24b9329bdcb032422b, type: 3}
+  m_Name: GlobalHitEffect
+  m_EditorClassIdentifier: 
+  hitEffects:
+  - _materialType: 0
+    _impactEffects:
+      ricochetEffect: {fileID: 1743540752023522, guid: ab72a66ae85268f4f9797fd6629ac1d3,
+        type: 2}
+      penetrationEntranceEffect: {fileID: 1797369944465216, guid: 153d429c109d802489aa161d330ecbb1,
+        type: 2}
+      penetrationExitEffect: {fileID: 1797369944465216, guid: 153d429c109d802489aa161d330ecbb1,
+        type: 2}
+      hitEffect: {fileID: 1743540752023522, guid: ab72a66ae85268f4f9797fd6629ac1d3,
+        type: 2}
+      impactClips:
+      - clip: {fileID: 8300000, guid: ad1525df1553f3d44897be7fbf2b5280, type: 3}
+        volume: 0.5
+      - clip: {fileID: 8300000, guid: 9d41e12247861a84a9ff0300948ca24a, type: 3}
+        volume: 0.8
+      ricochetSFX:
+        clip: {fileID: 8300000, guid: f49b461f95e0def45b1ad2a5a350e574, type: 3}
+        volume: 0.75
+  - _materialType: 1
+    _impactEffects:
+      ricochetEffect: {fileID: 0}
+      penetrationEntranceEffect: {fileID: 0}
+      penetrationExitEffect: {fileID: 0}
+      hitEffect: {fileID: 0}
+      impactClips: []
+      ricochetSFX:
+        clip: {fileID: 0}
+        volume: 1
+  - _materialType: 2
+    _impactEffects:
+      ricochetEffect: {fileID: 0}
+      penetrationEntranceEffect: {fileID: 0}
+      penetrationExitEffect: {fileID: 0}
+      hitEffect: {fileID: 0}
+      impactClips: []
+      ricochetSFX:
+        clip: {fileID: 0}
+        volume: 1
+  - _materialType: 3
+    _impactEffects:
+      ricochetEffect: {fileID: 0}
+      penetrationEntranceEffect: {fileID: 0}
+      penetrationExitEffect: {fileID: 0}
+      hitEffect: {fileID: 0}
+      impactClips: []
+      ricochetSFX:
+        clip: {fileID: 0}
+        volume: 1
+  - _materialType: 4
+    _impactEffects:
+      ricochetEffect: {fileID: 0}
+      penetrationEntranceEffect: {fileID: 0}
+      penetrationExitEffect: {fileID: 0}
+      hitEffect: {fileID: 0}
+      impactClips: []
+      ricochetSFX:
+        clip: {fileID: 0}
+        volume: 1
